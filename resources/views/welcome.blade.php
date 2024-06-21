@@ -23,7 +23,8 @@
             padding: 2em;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
-           
+            max-width: 500px;
+            width: 100%;
         }
         h1 {
             font-size: 2em;
