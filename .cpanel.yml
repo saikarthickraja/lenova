@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sparksof/public_html/
+    - /bin/cp * $DEPLOYPATH
