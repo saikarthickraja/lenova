@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #00;
+            background-color: grey;
             color: #333;
             margin: 0;
             padding: 0;
@@ -41,7 +41,7 @@
     <div class="container">
         <h1>Welcome to Sparksoft</h1>
         <p>This is a simple My application. Feel free to customize this page.</p>
-   
+       <p>Edited By Moses & Karthick</p>
     </div>
 </body>
 </html>
